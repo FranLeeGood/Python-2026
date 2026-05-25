@@ -19,7 +19,6 @@ print(num_complejo)
 print(otro_complejo)
 
 
-
 #operaciones aritmetica basica (Area de un triangulo)
 base = 8
 altura = 12.5
@@ -35,21 +34,23 @@ print(f"el area del triangulo es de (area) cm")
 print(f"el numeri PI tiene un valor de {PI:.4f}")
 
 
-
 #El metodo de redondeo 
-print(round(PT,2))
-print (round{area})
+print(round(PI,2))
+print (round(area))
 print(f"el area del triangulo es de {round(area)} cm")
 
 
 #transformaciones de numeros 
+
 print(float(edad))
 
+
 #cadenas de texto
+
 carrera = "Ingenieria civil en informatica" 
 institucion = "universidad de los lagos"
-
 print(carrera[0])
+
 
 #imprimir la posicion del caracter 
 print(carrera)[0] #se imprime la primer letra 
@@ -65,9 +66,11 @@ print("--------- arreglos (listas)--------")
 colores = ["azul", "rojo", "verde", "amarillo"] #arreglo de strings   # arreglo numerico
 numeros = [1,2,3,4,5,6] 
 
-print(colores[01]) # se imprime el primer elemento de la lista de cadena 
+print(colores[1]) # se imprime el primer elemento de la lista de cadena 
 print(numeros[-1]) #se imprime el ultimo elmento de la lista numeros 
-print(lista_mixta)  
+lista_mixta = [25, "hola" , True]
+print(lista_mixta) 
+ 
 
 #aplicando metodo split
 print(carrera.split())  #se para la cadena en sub cadenas 
@@ -84,7 +87,13 @@ print(interruptor)
 
 print(f"El tipo de dato es {type(carrera)}")
 
-pr
+print("-----EVALUANDO DATOS BOOLEANOS-------")
+print(bool(1))
+print(bool(0))
+print(bool(""))
+print(bool("True"))
+print(bool(4000))
+
 
 
 
