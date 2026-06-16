@@ -20,3 +20,4 @@ print(f"LISTA: {lista_asignaturas}")
 
 print(estudiantes.index("Alan")) #se encuentra en la posicion 2
 print(sorted(estudiantes))
+# esta terminado
