@@ -1,11 +1,9 @@
 # Numeros enteros
-
 edad = 19
 amnio_nacimiento = 2006
 
 
 # Numeros flotantes (reales)
-
 estatura = 1.85 # el decimal se utiliza punto no coma
 peso = 50
 
@@ -73,7 +71,7 @@ print(lista_mixta)
  
 
 #aplicando metodo split
-print(carrera.split())  #se para la cadena en sub cadenas 
+print(carrera.split())  #separa la cadena en sub cadenas 
 print(institucion.split())
 
 
