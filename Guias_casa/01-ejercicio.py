@@ -27,3 +27,5 @@ parte_real = int(impedancia_total.real)
 parte_imaginaria = int(impedancia_total.imag)
 print(f"La impedancia total real es {parte_real}")
 print(f"La impedancia imaginaria total es {parte_imaginaria}")
+
+
