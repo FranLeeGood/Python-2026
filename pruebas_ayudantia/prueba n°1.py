@@ -23,7 +23,7 @@ mis_notas = []
 
 mis_notas.append("5.5")
 mis_notas.append("5.5")
-mis_notas.append("5.5")
+mis_notas.append("5.5") 
 mis_notas.append("5.5") 
 mis_notas.append("5.6")
 
