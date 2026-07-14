@@ -17,3 +17,6 @@ print (f"Hola mi nombre es {nombre}")
 # Utilizando el metodo imput y creando una variable llamada carrera
 carrera = input ("¿Que carrera estudias?")
 print (f"Yo estudio la carrera de {carrera}")
+
+
+
