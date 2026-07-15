@@ -30,3 +30,4 @@ print(f"Código original ingresado: '{codigo_sucio}'")
 print(f"Código identificador limpio: {codigo_limpio}")
 print(f"Cantidad de caracteres:      {largo_codigo}")
 print("=========================================")
+
