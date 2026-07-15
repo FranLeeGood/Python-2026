@@ -38,3 +38,5 @@ rango_operacion = consumo_maximo - consumo_minimo
 print(f"El consumo maximo detectado fue: {consumo_maximo}GB")
 print(f"el consumo minimo detectado fue: {consumo_minimo}GB")
 print(f"El rango de operacion del servidor es: {rango_operacion} GB")
+
+
