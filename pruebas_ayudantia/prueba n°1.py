@@ -28,3 +28,4 @@ mis_notas.append("5.5")
 mis_notas.append("5.6")
 
 print(f" Cantidad de notas: \n nota 1: {mis_notas[0]} \n nota 2: {mis_notas[1]} \n nota 3: {mis_notas[2]} \n nota 4: {mis_notas[3]} \n nota 5: {mis_notas[4]} \n Nota Maxima: {max(mis_notas)} \n Nota Minima: {min(mis_notas)} \n Promedio notas: 5.5")
+
