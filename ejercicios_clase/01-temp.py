@@ -14,3 +14,6 @@ print("el promedio es:", promedio)
 print("la diferencia es:", diferencia)
 
 
+
+
+
