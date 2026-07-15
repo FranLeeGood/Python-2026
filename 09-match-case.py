@@ -47,4 +47,6 @@ match valor:
         print(f"{valor} es un numeor Par")
     case x if x % 2 != 0:
         print(f"{valor} es un numeor Impar")
+
+        
        
