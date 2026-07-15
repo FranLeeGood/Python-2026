@@ -28,3 +28,4 @@ elif automovil: # en otro lenguajes como c, elif = else if
 else:
     print(Fore.RED +"No puedo conducir, ya que no tengo la edad, ni la licencia, ni el automovil")
 
+
