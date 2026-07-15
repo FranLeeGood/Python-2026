@@ -49,3 +49,5 @@ print(f"CONJUNTO 3 ACTUALIZADO SIN EL COLOR CAFE: {colores_nuevos}")
 # APLICANDO EL METODO INTERSECTION()
 interseccion = colores_primarios.intersection(colores_nuevos)
 print(f"CONJUTNO INTERSECTADO: {interseccion}")
+
+
