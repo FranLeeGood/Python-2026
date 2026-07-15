@@ -115,3 +115,4 @@ while jugando:
 
 print("\nSimulación finalizada. ¡Buen juego!")
 
+
