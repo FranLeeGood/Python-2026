@@ -36,3 +36,4 @@ print(f"Registro de lluvia mínimo:           {minimo} mm")
 print(f"Registro de lluvia máximo:           {maximo} mm")
 print(f"Brecha pluvial de la tormenta:       {brecha_pluvial:.2f} mm")
 print("=========================================")
+
