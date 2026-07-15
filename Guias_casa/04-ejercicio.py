@@ -21,3 +21,5 @@ redondeo_valor = round(valor_sensor,2)
 # d) Imprima un mensaje comparativo que muestre por terminal: el valor original, el
 # valor truncado como entero y el valor redondeado.
 print(f"El valor original es:{valor_sensor} | el valor entero es:{sensor_nuevo} | el valor redondeado es:{redondeo_valor}")
+
+
