@@ -31,3 +31,5 @@ print("Lab 1:", notas[0])
 print("Lab 2:", notas[1])
 print("Lab 3:", notas[2])
 print("Promedio Final:", round(promedio, 2))
+
+
