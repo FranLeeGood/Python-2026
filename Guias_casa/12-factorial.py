@@ -21,3 +21,4 @@ else:
 
     # Mostramos el resultado final limpito
     print(f"El factorial de {n}! es: {resultado}")
+    
