@@ -35,3 +35,4 @@ for i in range(1, n + 1):
     ecuacion = " + ".join(terminos)
     print(f"{i}³ = {ecuacion} = {suma}")
 
+
