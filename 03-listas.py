@@ -70,3 +70,5 @@ print(lista1.count("francisco"))
 
 #aplicando metodo de listas 
 print(ramos_segundo_semestre.index("algebra"))#posicion 1
+
+
