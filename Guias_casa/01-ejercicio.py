@@ -29,3 +29,5 @@ print(f"La impedancia total real es {parte_real}")
 print(f"La impedancia imaginaria total es {parte_imaginaria}")
 
 
+
+
