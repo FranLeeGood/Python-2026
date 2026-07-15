@@ -43,3 +43,4 @@ print(f"tiempo mas rapido registrado(minimo):{min_tiempo}")
 print(f"tiempo mas lento registrado (maximo:{max_tiempo})")
 print(f"Brecha de rendimiento(maximo - minimo:{brecha_tiempo:2f})")
 print("=====================")
+
