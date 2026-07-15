@@ -102,3 +102,4 @@ lista_final_tuplas = list(censo_2017.items())
 print("--- REQUERIMIENTO F: Lista Final de Tuplas (.items) ---")
 for elemento in lista_final_tuplas:
     print(elemento)
+
