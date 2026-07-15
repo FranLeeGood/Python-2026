@@ -41,3 +41,4 @@ print(definicion)
 #constancia de la consulta en el sistema.
 registro_busqueda = (busqueda, definicion)
 print(registro_busqueda)
+
