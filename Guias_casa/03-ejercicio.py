@@ -24,3 +24,4 @@ nombre_sin_punto = nombre_mayuscula.replace(" ",".")
 # e) Muestre en pantalla el resultado final con el texto @alumnos.ulagos.cl concatenado
 # al final.
 print(f"Su correo institucional es {nombre_sin_punto}@alumnos.ulagos.cl")
+
